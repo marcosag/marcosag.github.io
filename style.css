@@ -1,0 +1,110 @@
+* {
+  padding: 0px;
+  margin: 0px;
+}
+
+body {
+  font-family: 'Asap', sans-serif;
+  margin:auto;
+  background-color: #fff;
+}
+
+li {
+  list-style: none;
+}
+
+header {
+  padding: 16px 0px 0px 0px;
+  height: 42px;
+}
+
+header h1 {
+  color: #000;
+  font-size: 42px;
+}
+
+header address {
+  line-height: 32px;
+  font-size: 15px;
+  font-style: normal;
+  font-family: 'Telex', sans-serif;
+}
+
+header address ul li {
+  float: left;
+  margin-right: 16px;
+}
+
+a {
+  color: #08f;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+aside h2 {
+  font-size: 23px;
+  font-weight: bold;
+  padding-top: 16px;
+  color: #D95B43;
+}
+
+aside h3 {
+  padding-top: 8px;
+  font-size: 19px;
+}
+
+aside p {
+  padding: 8px 0px;
+  font-family: 'Glegoo', serif;
+  font-size: 14px;
+  line-height: 16px;
+}
+
+div#content {;
+
+}
+
+section {
+  padding: 16px 0px;
+}
+
+section h2 {
+  padding-bottom: 16px;
+  font-family: 'Glegoo', sans;
+  font-size: 28px;
+}
+
+section ul li {
+  padding-bottom: 16px;
+}
+
+section ul li h3 {
+  font-family: 'Asap', sans-serif;
+  font-size: 18px;
+  font-weight: 700;
+}
+
+section ul li h3 span {
+  font-size: 16px;
+  font-weight: normal;
+}
+
+section ul li p {
+  font-family: 'Asap', sans-serif;
+  font-size: 16px;
+  line-height: 20px;
+  padding: 8px 0px;
+}
+
+section ul li p em {
+  font-family: 'Glegoo', sans;
+  font-size: 13px;
+}
+
+section ul li p em strong {
+  font-family: 'Asap', sans;
+  font-size: 15px;
+}
